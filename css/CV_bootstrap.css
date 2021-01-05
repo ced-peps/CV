@@ -9,3 +9,17 @@ li{
     list-style: none;
 }
 
+a:hover{
+    color: #0046d9 !important;
+    text-decoration: none;
+}
+
+span{
+
+    color: #0046d9;
+}
+
+#parcours{
+
+    margin-bottom: 10px;
+}
